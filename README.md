@@ -1,12 +1,12 @@
 
-## Exp 6 Simulation of Optical Communication System
-## Introduction to OptiPerformer 
-# Aim
+# Exp 6 Simulation of Optical Communication System
+# Introduction to OptiPerformer 
+## Aim
 To analyze and evaluate the performance of an optical communication system by studying the relationship between fiber length, received power, Q factor and Bit Error Rate(BER) and to observe changes in the eye diagram with increasing fiber length using optiperformer.
 
 ---
 
-# Theory
+## Theory
 
 Optiwave introduces **OptiPerformer**, a free photonic design automation tool that harnesses the full power of OptiSystem and creates specific dynamic design scenarios for student use.
 
@@ -21,7 +21,7 @@ The system includes:
 
 ---
 
-# Procedure
+## Procedure
 
 1. Download and install OptiPerformer from [optiwave.com](https://optiwave.com).  
 2. Copy the `Introduction_OptiPerformer.osp` file to your PC.  
@@ -53,7 +53,7 @@ The system includes:
 
 ---
 
-# Observation
+## Observation
 
 1. Cover sheet (as per attached example).  
 2. Tabulation of received power, Q factor, and BER for 5 fiber lengths.  
@@ -62,18 +62,18 @@ The system includes:
 
 ---
 
-# Tabulation
+## Tabulation
 
 <img width="632" height="387" alt="image" src="https://github.com/user-attachments/assets/7403d05d-ad9f-4579-986c-757f7564aa03" />
 
 ---
 
-# Graph
+## Graph
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a7767da5-72e7-4734-ae41-5f57364f4a90" />
 
 ---
 
-# Result
+## Result
 
 Thus, the optiperformer software had been installed and a sample file had been run sucessfully.
