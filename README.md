@@ -62,6 +62,12 @@ The system includes:
 
 ---
 
+## Block Diagram
+
+<img width="1089" height="562" alt="image" src="https://github.com/user-attachments/assets/887265c1-0641-494b-9667-792e27dd8323" />
+
+---
+
 ## Tabulation
 
 <img width="632" height="387" alt="image" src="https://github.com/user-attachments/assets/7403d05d-ad9f-4579-986c-757f7564aa03" />
